@@ -23,10 +23,10 @@ public class AlebrijeMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        _MoveAlebrije();
+        _MovePlayer();
     }
 
-    private void _MoveAlebrije()
+    void _MovePlayer()
     {
         // get user input (horizontal)
         float horizontalInput = Input.GetAxisRaw("Horizontal1");
