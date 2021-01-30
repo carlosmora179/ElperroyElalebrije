@@ -45,9 +45,9 @@ public class AlebrijeMovement : MonoBehaviour
 
         if (totemDistance > radius)
         {
-            Vector3 fromOriginToObject = transform.position - totemPosition;
-            fromOriginToObject *= radius / totemDistance;
-            transform.position = totemPosition + fromOriginToObject;
+            Vector3 leashLength = transform.position - totemPosition;
+            leashLength *= radius / totemDistance;
+            transform.position = totemPosition + leashLength;
         }
     }
 }

@@ -17,11 +17,14 @@ public class CameraFollow : MonoBehaviour
 
     }
 
+    // lateupdate to prevent issues
     void LateUpdate()
     {
+        // save target position to temp variable
         Vector3 temp = transform.position;
         temp.x = playerTransform.position.x;
         temp.y = playerTransform.position.y;
+        // update camera position
         transform.position = temp;
     }
 }
