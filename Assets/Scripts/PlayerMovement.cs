@@ -18,6 +18,11 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        _MovePlayer();
+    }
+
+    void _MovePlayer()
+    {
         // get user input (horizontal)
         float horizontalInput = Input.GetAxis("Horizontal");
         // get user input (vertical)
