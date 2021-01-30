@@ -1,0 +1,1574 @@
+fileFormatVersion: 2
+guid: 890d6788c248901428750fbc2dd0669e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8494371228782952924
+    second: Atacar adelante.gif_0
+  - first:
+      213: -7182344112154019060
+    second: Atacar adelante.gif_1
+  - first:
+      213: -9006588601755487157
+    second: Atacar adelante.gif_2
+  - first:
+      213: 6398684287970514261
+    second: Atacar adelante.gif_3
+  - first:
+      213: 4884915346455880909
+    second: Atacar adelante.gif_4
+  - first:
+      213: -7505949779355398385
+    second: Atacar adelante.gif_5
+  - first:
+      213: -7268612437986797534
+    second: Atacar adelante.gif_6
+  - first:
+      213: -3460278621321162919
+    second: Atacar adelante.gif_7
+  - first:
+      213: 4103704074277649040
+    second: Atacar adelante.gif_8
+  - first:
+      213: 5966202195232509526
+    second: Atacar adelante.gif_9
+  - first:
+      213: -2903130528664933416
+    second: Atacar adelante.gif_10
+  - first:
+      213: -9170200281943092147
+    second: Atacar adelante.gif_11
+  - first:
+      213: -8646746519149437633
+    second: Atacar adelante.gif_12
+  - first:
+      213: -6902997436993045938
+    second: Atacar adelante.gif_13
+  - first:
+      213: -6573869396534093745
+    second: Atacar adelante.gif_14
+  - first:
+      213: 4116529054075813512
+    second: Atacar adelante.gif_15
+  - first:
+      213: -8614172368080248912
+    second: Atacar adelante.gif_16
+  - first:
+      213: -3996471721247400437
+    second: Atacar adelante.gif_17
+  - first:
+      213: -1329877384342166190
+    second: Atacar adelante.gif_18
+  - first:
+      213: -5748607001136651939
+    second: Atacar adelante.gif_19
+  - first:
+      213: 5051311721101994324
+    second: Atacar adelante.gif_20
+  - first:
+      213: -7443436826361612551
+    second: Atacar adelante.gif_21
+  - first:
+      213: 6032203548014726143
+    second: Atacar adelante.gif_22
+  - first:
+      213: 1515563105755552520
+    second: Atacar adelante.gif_23
+  - first:
+      213: 1503152893356286570
+    second: Atacar adelante.gif_24
+  - first:
+      213: 5706794887125171296
+    second: Atacar adelante.gif_25
+  - first:
+      213: -8119588964680125604
+    second: Atacar adelante.gif_26
+  - first:
+      213: -4489061139145774649
+    second: Atacar adelante.gif_27
+  - first:
+      213: -4585713514476630879
+    second: Atacar adelante.gif_28
+  - first:
+      213: -2396683875907526271
+    second: Atacar adelante.gif_29
+  - first:
+      213: 4648278182026798941
+    second: Atacar adelante.gif_30
+  - first:
+      213: 160619790774251420
+    second: Atacar adelante.gif_31
+  - first:
+      213: 6141730280550657534
+    second: Atacar adelante.gif_32
+  - first:
+      213: -7398441771319960232
+    second: Atacar adelante.gif_33
+  - first:
+      213: -3038668252741860543
+    second: Atacar adelante.gif_34
+  - first:
+      213: -747503569930206464
+    second: Atacar adelante.gif_35
+  - first:
+      213: 3971246018176034124
+    second: Atacar adelante.gif_36
+  - first:
+      213: -6038606968539484937
+    second: Atacar adelante.gif_37
+  - first:
+      213: 2355858452395108737
+    second: Atacar adelante.gif_38
+  - first:
+      213: -942541922969110892
+    second: Atacar adelante.gif_39
+  - first:
+      213: 2587534213305032514
+    second: Atacar adelante.gif_40
+  - first:
+      213: -1079396555185711228
+    second: Atacar adelante.gif_41
+  - first:
+      213: 1232822228428069736
+    second: Atacar adelante.gif_42
+  - first:
+      213: 211972733312103148
+    second: Atacar adelante.gif_43
+  - first:
+      213: -6125297252056803179
+    second: Atacar adelante.gif_44
+  - first:
+      213: 624167208295919558
+    second: Atacar adelante.gif_45
+  - first:
+      213: 630811972063406157
+    second: Atacar adelante.gif_46
+  - first:
+      213: 66757491727689421
+    second: Atacar adelante.gif_47
+  - first:
+      213: 2680614551283701234
+    second: Atacar adelante.gif_48
+  - first:
+      213: 8131006748706606580
+    second: Atacar adelante.gif_49
+  - first:
+      213: -2641784793920949745
+    second: Atacar adelante.gif_50
+  - first:
+      213: 3439058292578560900
+    second: Atacar adelante.gif_51
+  - first:
+      213: -5124678105452849805
+    second: Atacar adelante.gif_52
+  - first:
+      213: -6111884193972255945
+    second: Atacar adelante.gif_53
+  - first:
+      213: -3082176709784525237
+    second: Atacar adelante.gif_54
+  - first:
+      213: 6903672823187762577
+    second: Atacar adelante.gif_55
+  - first:
+      213: -8546086168936306725
+    second: Atacar adelante.gif_56
+  - first:
+      213: 7006818460118065367
+    second: Atacar adelante.gif_57
+  - first:
+      213: -6166091732715544447
+    second: Atacar adelante.gif_58
+  - first:
+      213: -8681283472012951249
+    second: Atacar adelante.gif_59
+  - first:
+      213: 4670761097095791345
+    second: Atacar adelante.gif_60
+  - first:
+      213: 4051202593161357475
+    second: Atacar adelante.gif_61
+  - first:
+      213: -5693128043444419464
+    second: Atacar adelante.gif_62
+  - first:
+      213: 8929735687054591812
+    second: Atacar adelante.gif_63
+  - first:
+      213: 3698133994607341170
+    second: Atacar adelante.gif_64
+  - first:
+      213: -9084243025373648477
+    second: Atacar adelante.gif_65
+  - first:
+      213: 1545200446353357824
+    second: Atacar adelante.gif_66
+  - first:
+      213: -3525064075614962265
+    second: Atacar adelante.gif_67
+  - first:
+      213: -7134859589349975948
+    second: Atacar adelante.gif_68
+  - first:
+      213: -1756951884226624644
+    second: Atacar adelante.gif_69
+  - first:
+      213: -3295453072331431667
+    second: Atacar adelante.gif_70
+  - first:
+      213: -2910725787843864633
+    second: Atacar adelante.gif_71
+  - first:
+      213: -8419770063700115494
+    second: Atacar adelante.gif_72
+  - first:
+      213: 2022210602075344897
+    second: Atacar adelante.gif_73
+  - first:
+      213: 7689072548577134961
+    second: Atacar adelante.gif_74
+  - first:
+      213: -5359364074279715636
+    second: Atacar adelante.gif_75
+  - first:
+      213: -8219485895398023006
+    second: Atacar adelante.gif_76
+  - first:
+      213: 5076364634496717126
+    second: Atacar adelante.gif_77
+  - first:
+      213: -5938909654498932312
+    second: Atacar adelante.gif_78
+  - first:
+      213: -4026844585983751662
+    second: Atacar adelante.gif_79
+  - first:
+      213: 1172959904671898821
+    second: Atacar adelante.gif_80
+  - first:
+      213: -4992165641349108925
+    second: Atacar adelante.gif_81
+  - first:
+      213: 3598470319559030228
+    second: Atacar adelante.gif_82
+  - first:
+      213: 1671033044081145926
+    second: Atacar adelante.gif_83
+  - first:
+      213: -8942709665440827216
+    second: Atacar adelante.gif_84
+  - first:
+      213: -6801653492343814477
+    second: Atacar adelante.gif_85
+  - first:
+      213: 9125583189481702635
+    second: Atacar adelante.gif_86
+  - first:
+      213: -5127697818742158280
+    second: Atacar adelante.gif_87
+  - first:
+      213: -2160367033964134361
+    second: Atacar adelante.gif_88
+  - first:
+      213: -1522406178697077204
+    second: Atacar adelante.gif_89
+  - first:
+      213: 3215272437727915506
+    second: Atacar adelante.gif_90
+  - first:
+      213: 8805729050581522300
+    second: Atacar adelante.gif_91
+  - first:
+      213: -474189840216959688
+    second: Atacar adelante.gif_92
+  - first:
+      213: 3325957936737123469
+    second: Atacar adelante.gif_93
+  - first:
+      213: 8988612816066431128
+    second: Atacar adelante.gif_94
+  - first:
+      213: -630653929770337371
+    second: Atacar adelante.gif_95
+  - first:
+      213: -9184542090204022754
+    second: Atacar adelante.gif_96
+  - first:
+      213: 800650596909347462
+    second: Atacar adelante.gif_97
+  - first:
+      213: -4581532044923859961
+    second: Atacar adelante.gif_98
+  - first:
+      213: 1578577552154396050
+    second: Atacar adelante.gif_99
+  - first:
+      213: -29268374830841060
+    second: Atacar adelante.gif_100
+  - first:
+      213: 8814452328102701405
+    second: Atacar adelante.gif_101
+  - first:
+      213: -1275996935646200902
+    second: Atacar adelante.gif_102
+  - first:
+      213: -9206963561555569994
+    second: Atacar adelante.gif_103
+  - first:
+      213: -6457941290712235917
+    second: Atacar adelante.gif_104
+  - first:
+      213: 4002597028309362914
+    second: Atacar adelante.gif_105
+  - first:
+      213: 7364304491839354739
+    second: Atacar adelante.gif_106
+  - first:
+      213: 4989964071426977211
+    second: Atacar adelante.gif_107
+  - first:
+      213: 6987348120529436321
+    second: Atacar adelante.gif_108
+  - first:
+      213: -5332688920749082233
+    second: Atacar adelante.gif_109
+  - first:
+      213: 206665866540095525
+    second: Atacar adelante.gif_110
+  - first:
+      213: 6081491022252531165
+    second: Atacar adelante.gif_111
+  - first:
+      213: 5146450629748204038
+    second: Atacar adelante.gif_112
+  - first:
+      213: 6720022751328269984
+    second: Atacar adelante.gif_113
+  - first:
+      213: -4831785812897972499
+    second: Atacar adelante.gif_114
+  - first:
+      213: 3514468630389429287
+    second: Atacar adelante.gif_115
+  - first:
+      213: -6650446101440424565
+    second: Atacar adelante.gif_116
+  - first:
+      213: 4408605660964959585
+    second: Atacar adelante.gif_117
+  - first:
+      213: -885689228428508124
+    second: Atacar adelante.gif_118
+  - first:
+      213: 6004136175718501353
+    second: Atacar adelante.gif_119
+  - first:
+      213: 1981935148870191451
+    second: Atacar adelante.gif_120
+  - first:
+      213: -5009039436145298237
+    second: Atacar adelante.gif_121
+  - first:
+      213: -6021821846874623470
+    second: Atacar adelante.gif_122
+  - first:
+      213: 4256403145389539164
+    second: Atacar adelante.gif_123
+  - first:
+      213: 8699032682998331397
+    second: Atacar adelante.gif_124
+  - first:
+      213: 2646157708203618522
+    second: Atacar adelante.gif_125
+  - first:
+      213: -2264051051239888396
+    second: Atacar adelante.gif_126
+  - first:
+      213: 8647102867092400171
+    second: Atacar adelante.gif_127
+  - first:
+      213: -1724130488317454565
+    second: Atacar adelante.gif_128
+  - first:
+      213: -4030168414229238938
+    second: Atacar adelante.gif_129
+  - first:
+      213: -6535644825581655711
+    second: Atacar adelante.gif_130
+  - first:
+      213: 295201885902698572
+    second: Atacar adelante.gif_131
+  - first:
+      213: -3626045991070098735
+    second: Atacar adelante.gif_132
+  - first:
+      213: 8644108862445401378
+    second: Atacar adelante.gif_133
+  - first:
+      213: -8154877061924307486
+    second: Atacar adelante.gif_134
+  - first:
+      213: 7398601818454777657
+    second: Atacar adelante.gif_135
+  - first:
+      213: -3899587906158491498
+    second: Atacar adelante.gif_136
+  - first:
+      213: 317337785699663174
+    second: Atacar adelante.gif_137
+  - first:
+      213: -3255552235007187921
+    second: Atacar adelante.gif_138
+  - first:
+      213: 767936232370761162
+    second: Atacar adelante.gif_139
+  - first:
+      213: -5404586721654245381
+    second: Atacar adelante.gif_140
+  - first:
+      213: 3832197535516678647
+    second: Atacar adelante.gif_141
+  - first:
+      213: 8143654097025872879
+    second: Atacar adelante.gif_142
+  - first:
+      213: -3421289390219671675
+    second: Atacar adelante.gif_143
+  - first:
+      213: 8810977028298961807
+    second: Atacar adelante.gif_144
+  - first:
+      213: 8153346683784429471
+    second: Atacar adelante.gif_145
+  - first:
+      213: 1554494710095463456
+    second: Atacar adelante.gif_146
+  - first:
+      213: 910239691169478035
+    second: Atacar adelante.gif_147
+  - first:
+      213: 2013577806086449787
+    second: Atacar adelante.gif_148
+  - first:
+      213: 338936771996725198
+    second: Atacar adelante.gif_149
+  - first:
+      213: 6521074731724404572
+    second: Atacar adelante.gif_150
+  - first:
+      213: 952841107736078692
+    second: Atacar adelante.gif_151
+  - first:
+      213: 3538091320219634161
+    second: Atacar adelante.gif_152
+  - first:
+      213: 4761557643297692959
+    second: Atacar adelante.gif_153
+  - first:
+      213: 6469150002199897096
+    second: Atacar adelante.gif_154
+  - first:
+      213: -6122386887406144874
+    second: Atacar adelante.gif_155
+  - first:
+      213: -1204904056041674662
+    second: Atacar adelante.gif_156
+  - first:
+      213: 3989729406662598921
+    second: Atacar adelante.gif_157
+  - first:
+      213: 3349874840652122197
+    second: Atacar adelante.gif_158
+  - first:
+      213: 6077417070874497239
+    second: Atacar adelante.gif_159
+  - first:
+      213: 6500831220141896759
+    second: Atacar adelante.gif_160
+  - first:
+      213: -1150088248095668743
+    second: Atacar adelante.gif_161
+  - first:
+      213: -152288342303982717
+    second: Atacar adelante.gif_162
+  - first:
+      213: -7169739093271196900
+    second: Atacar adelante.gif_163
+  - first:
+      213: -1677113852887515890
+    second: Atacar adelante.gif_164
+  - first:
+      213: -3512756687504986868
+    second: Atacar adelante.gif_165
+  - first:
+      213: 8411688203359696958
+    second: Atacar adelante.gif_166
+  - first:
+      213: 7648843417492973001
+    second: Atacar adelante.gif_167
+  - first:
+      213: 5234232452512027352
+    second: Atacar adelante.gif_168
+  - first:
+      213: -1725115122594107130
+    second: Atacar adelante.gif_169
+  - first:
+      213: -2864533598484117576
+    second: Atacar adelante.gif_170
+  - first:
+      213: 3325291586905505300
+    second: Atacar adelante.gif_171
+  - first:
+      213: 1827632433112524511
+    second: Atacar adelante.gif_172
+  - first:
+      213: 6659600042832031608
+    second: Atacar adelante.gif_173
+  - first:
+      213: -777294653832127896
+    second: Atacar adelante.gif_174
+  - first:
+      213: 632528011369142919
+    second: Atacar adelante.gif_175
+  - first:
+      213: -6083301417443347599
+    second: Atacar adelante.gif_176
+  - first:
+      213: 4892888047843006800
+    second: Atacar adelante.gif_177
+  - first:
+      213: -3523027959527820511
+    second: Atacar adelante.gif_178
+  - first:
+      213: -2836377280108774999
+    second: Atacar adelante.gif_179
+  - first:
+      213: 5224805513868329261
+    second: Atacar adelante.gif_180
+  - first:
+      213: 3455938069917088817
+    second: Atacar adelante.gif_181
+  - first:
+      213: -2428348142768809156
+    second: Atacar adelante.gif_182
+  - first:
+      213: 8399721138358064273
+    second: Atacar adelante.gif_183
+  - first:
+      213: 5754251038615580207
+    second: Atacar adelante.gif_184
+  - first:
+      213: 9102146191258286335
+    second: Atacar adelante.gif_185
+  - first:
+      213: 3842083651038021827
+    second: Atacar adelante.gif_186
+  - first:
+      213: 963634827851770356
+    second: Atacar adelante.gif_187
+  - first:
+      213: 7490257499364105498
+    second: Atacar adelante.gif_188
+  - first:
+      213: 1508765376726885029
+    second: Atacar adelante.gif_189
+  - first:
+      213: -6995836876909477749
+    second: Atacar adelante.gif_190
+  - first:
+      213: -481197343392916300
+    second: Atacar adelante.gif_191
+  - first:
+      213: -2741922943745828473
+    second: Atacar adelante.gif_192
+  - first:
+      213: 1264603409734428345
+    second: Atacar adelante.gif_193
+  - first:
+      213: 9057059817394113925
+    second: Atacar adelante.gif_194
+  - first:
+      213: 5429768187415920030
+    second: Atacar adelante.gif_195
+  - first:
+      213: 43563805504926616
+    second: Atacar adelante.gif_196
+  - first:
+      213: 9124124375572137849
+    second: Atacar adelante.gif_197
+  - first:
+      213: -1171393175372929994
+    second: Atacar adelante.gif_198
+  - first:
+      213: 4042353908081711901
+    second: Atacar adelante.gif_199
+  - first:
+      213: -1031421371952652944
+    second: Atacar adelante.gif_200
+  - first:
+      213: 2157589730302640366
+    second: Atacar adelante.gif_201
+  - first:
+      213: 6551397754322696308
+    second: Atacar adelante.gif_202
+  - first:
+      213: 9028882341902089785
+    second: Atacar adelante.gif_203
+  - first:
+      213: 1382374771272465970
+    second: Atacar adelante.gif_204
+  - first:
+      213: 1709423322504505383
+    second: Atacar adelante.gif_205
+  - first:
+      213: -7922418820449952233
+    second: Atacar adelante.gif_206
+  - first:
+      213: 7674914971294686331
+    second: Atacar adelante.gif_207
+  - first:
+      213: -559669339113946558
+    second: Atacar adelante.gif_208
+  - first:
+      213: -311696421511618057
+    second: Atacar adelante.gif_209
+  - first:
+      213: 8609335069264691978
+    second: Atacar adelante.gif_210
+  - first:
+      213: 7459712921986939184
+    second: Atacar adelante.gif_211
+  - first:
+      213: -6402777205285497302
+    second: Atacar adelante.gif_212
+  - first:
+      213: 5425416876560850355
+    second: Atacar adelante.gif_213
+  - first:
+      213: -5749223625817491800
+    second: Atacar adelante.gif_214
+  - first:
+      213: 4747625634333025663
+    second: Atacar adelante.gif_215
+  - first:
+      213: -4597688036452812300
+    second: Atacar adelante.gif_216
+  - first:
+      213: 1742592086449516798
+    second: Atacar adelante.gif_217
+  - first:
+      213: -5323280116685587824
+    second: Atacar adelante.gif_218
+  - first:
+      213: -2297255582479759943
+    second: Atacar adelante.gif_219
+  - first:
+      213: 8637522284705521447
+    second: Atacar adelante.gif_220
+  - first:
+      213: -2008414742906950860
+    second: Atacar adelante.gif_221
+  - first:
+      213: -5366951379270110863
+    second: Atacar adelante.gif_222
+  - first:
+      213: -4550521302374929072
+    second: Atacar adelante.gif_223
+  - first:
+      213: -3468384116220185217
+    second: Atacar adelante.gif_224
+  - first:
+      213: -5755203161858482965
+    second: Atacar adelante.gif_225
+  - first:
+      213: 3167630157737270420
+    second: Atacar adelante.gif_226
+  - first:
+      213: 1596677163093210126
+    second: Atacar adelante.gif_227
+  - first:
+      213: -6462310261161340745
+    second: Atacar adelante.gif_228
+  - first:
+      213: 6200220299430800864
+    second: Atacar adelante.gif_229
+  - first:
+      213: 3337331811773621656
+    second: Atacar adelante.gif_230
+  - first:
+      213: -1916745887944969261
+    second: Atacar adelante.gif_231
+  - first:
+      213: -2299047976204048572
+    second: Atacar adelante.gif_232
+  - first:
+      213: 5017743091079951143
+    second: Atacar adelante.gif_233
+  - first:
+      213: 7410626800040313161
+    second: Atacar adelante.gif_234
+  - first:
+      213: 8448428689233679813
+    second: Atacar adelante.gif_235
+  - first:
+      213: 8421744292002639115
+    second: Atacar adelante.gif_236
+  - first:
+      213: -1896317300584547758
+    second: Atacar adelante.gif_237
+  - first:
+      213: 1035797082694650129
+    second: Atacar adelante.gif_238
+  - first:
+      213: 4372253445476181488
+    second: Atacar adelante.gif_239
+  - first:
+      213: -9036535062119428926
+    second: Atacar adelante.gif_240
+  - first:
+      213: 922400103631830733
+    second: Atacar adelante.gif_241
+  - first:
+      213: 4138639329151368080
+    second: Atacar adelante.gif_242
+  - first:
+      213: 4852183529835676633
+    second: Atacar adelante.gif_243
+  - first:
+      213: -1722953891926063988
+    second: Atacar adelante.gif_244
+  - first:
+      213: -7569600224133708729
+    second: Atacar adelante.gif_245
+  - first:
+      213: -2414954986206601132
+    second: Atacar adelante.gif_246
+  - first:
+      213: 3481185726040595536
+    second: Atacar adelante.gif_247
+  - first:
+      213: 1732041879219575649
+    second: Atacar adelante.gif_248
+  - first:
+      213: 7463491043862112102
+    second: Atacar adelante.gif_249
+  - first:
+      213: -5172388803840503014
+    second: Atacar adelante.gif_250
+  - first:
+      213: 6316524924832249879
+    second: Atacar adelante.gif_251
+  - first:
+      213: -131929115553592845
+    second: Atacar adelante.gif_252
+  - first:
+      213: 585871833461616193
+    second: Atacar adelante.gif_253
+  - first:
+      213: 940286903869911062
+    second: Atacar adelante.gif_254
+  - first:
+      213: -7524468370079961061
+    second: Atacar adelante.gif_255
+  - first:
+      213: 5493497064991195565
+    second: Atacar adelante.gif_256
+  - first:
+      213: -5671642271770332036
+    second: Atacar adelante.gif_257
+  - first:
+      213: 8094525666384881376
+    second: Atacar adelante.gif_258
+  - first:
+      213: -8791012918391812428
+    second: Atacar adelante.gif_259
+  - first:
+      213: -4170305459129091188
+    second: Atacar adelante.gif_260
+  - first:
+      213: 2971452857825757950
+    second: Atacar adelante.gif_261
+  - first:
+      213: -5767276511549729195
+    second: Atacar adelante.gif_262
+  - first:
+      213: 5285973884882560851
+    second: Atacar adelante.gif_263
+  - first:
+      213: -2728987559827333833
+    second: Atacar adelante.gif_264
+  - first:
+      213: 5479778618911583445
+    second: Atacar adelante.gif_265
+  - first:
+      213: 6668283380295675083
+    second: Atacar adelante.gif_266
+  - first:
+      213: 4543559121990131104
+    second: Atacar adelante.gif_267
+  - first:
+      213: -8896921579562698926
+    second: Atacar adelante.gif_268
+  - first:
+      213: -6503135833049218643
+    second: Atacar adelante.gif_269
+  - first:
+      213: -6471480391920029320
+    second: Atacar adelante.gif_270
+  - first:
+      213: 8345092177774675992
+    second: Atacar adelante.gif_271
+  - first:
+      213: 33080735824086641
+    second: Atacar adelante.gif_272
+  - first:
+      213: -2381377716280488203
+    second: Atacar adelante.gif_273
+  - first:
+      213: 2556834990583759565
+    second: Atacar adelante.gif_274
+  - first:
+      213: 4788737011480514352
+    second: Atacar adelante.gif_275
+  - first:
+      213: 5697930511482104429
+    second: Atacar adelante.gif_276
+  - first:
+      213: -1366118808286856333
+    second: Atacar adelante.gif_277
+  - first:
+      213: 1111297275342489040
+    second: Atacar adelante.gif_278
+  - first:
+      213: -8880919971034000035
+    second: Atacar adelante.gif_279
+  - first:
+      213: 3504174987519443709
+    second: Atacar adelante.gif_280
+  - first:
+      213: -7201184473059745446
+    second: Atacar adelante.gif_281
+  - first:
+      213: -2177459331291204643
+    second: Atacar adelante.gif_282
+  - first:
+      213: -8823144216798086315
+    second: Atacar adelante.gif_283
+  - first:
+      213: -4497797860920106927
+    second: Atacar adelante.gif_284
+  - first:
+      213: 3547769213705093794
+    second: Atacar adelante.gif_285
+  - first:
+      213: -9080601843951882404
+    second: Atacar adelante.gif_286
+  - first:
+      213: -943546494970895524
+    second: Atacar adelante.gif_287
+  - first:
+      213: 2130862152305864549
+    second: Atacar adelante.gif_288
+  - first:
+      213: -3522914645749777056
+    second: Atacar adelante.gif_289
+  - first:
+      213: -2736185754926241376
+    second: Atacar adelante.gif_290
+  - first:
+      213: -3206188121083460415
+    second: Atacar adelante.gif_291
+  - first:
+      213: -7761623804573983820
+    second: Atacar adelante.gif_292
+  - first:
+      213: 5628801448307624674
+    second: Atacar adelante.gif_293
+  - first:
+      213: 170317755131258410
+    second: Atacar adelante.gif_294
+  - first:
+      213: -6323275207925302796
+    second: Atacar adelante.gif_295
+  - first:
+      213: -5290253926202722206
+    second: Atacar adelante.gif_296
+  - first:
+      213: -4532132511951632794
+    second: Atacar adelante.gif_297
+  - first:
+      213: 7933904592043563070
+    second: Atacar adelante.gif_298
+  - first:
+      213: -8898168227131220390
+    second: Atacar adelante.gif_299
+  - first:
+      213: 5646917729926272160
+    second: Atacar adelante.gif_300
+  - first:
+      213: 3941012772578112354
+    second: Atacar adelante.gif_301
+  - first:
+      213: -9054577595733395662
+    second: Atacar adelante.gif_302
+  - first:
+      213: 6563746171508781104
+    second: Atacar adelante.gif_303
+  - first:
+      213: 4741589188111715693
+    second: Atacar adelante.gif_304
+  - first:
+      213: 4845359560896822063
+    second: Atacar adelante.gif_305
+  - first:
+      213: -5936231662486931496
+    second: Atacar adelante.gif_306
+  - first:
+      213: 639244208303341615
+    second: Atacar adelante.gif_307
+  - first:
+      213: -3403945336646957277
+    second: Atacar adelante.gif_308
+  - first:
+      213: -3694240132825008517
+    second: Atacar adelante.gif_309
+  - first:
+      213: 4954751294201796991
+    second: Atacar adelante.gif_310
+  - first:
+      213: 8678152748185210230
+    second: Atacar adelante.gif_311
+  - first:
+      213: -3771488180202350916
+    second: Atacar adelante.gif_312
+  - first:
+      213: 4044644126829121518
+    second: Atacar adelante.gif_313
+  - first:
+      213: -6949943377246545849
+    second: Atacar adelante.gif_314
+  - first:
+      213: 2245609777967916552
+    second: Atacar adelante.gif_315
+  - first:
+      213: -5968899360573266596
+    second: Atacar adelante.gif_316
+  - first:
+      213: -1024737344767142153
+    second: Atacar adelante.gif_317
+  - first:
+      213: 3149770734588220221
+    second: Atacar adelante.gif_318
+  - first:
+      213: -8574103256855064438
+    second: Atacar adelante.gif_319
+  - first:
+      213: -8248798851578847700
+    second: Atacar adelante.gif_320
+  - first:
+      213: 5763348189977619860
+    second: Atacar adelante.gif_321
+  - first:
+      213: 2419768259494427782
+    second: Atacar adelante.gif_322
+  - first:
+      213: 5211613342887184441
+    second: Atacar adelante.gif_323
+  - first:
+      213: -1116330186611717373
+    second: Atacar adelante.gif_324
+  - first:
+      213: 6402702138409384859
+    second: Atacar adelante.gif_325
+  - first:
+      213: -4642584176506949004
+    second: Atacar adelante.gif_326
+  - first:
+      213: -5692217846402708629
+    second: Atacar adelante.gif_327
+  - first:
+      213: 4172034520223946222
+    second: Atacar adelante.gif_328
+  - first:
+      213: -9054373029689363467
+    second: Atacar adelante.gif_329
+  - first:
+      213: 8399657194735674286
+    second: Atacar adelante.gif_330
+  - first:
+      213: 6917296883363448824
+    second: Atacar adelante.gif_331
+  - first:
+      213: -2149225645822562664
+    second: Atacar adelante.gif_332
+  - first:
+      213: -6077944197818441044
+    second: Atacar adelante.gif_333
+  - first:
+      213: 717258913863614613
+    second: Atacar adelante.gif_334
+  - first:
+      213: -3381612741263025694
+    second: Atacar adelante.gif_335
+  - first:
+      213: -7252877495088505585
+    second: Atacar adelante.gif_336
+  - first:
+      213: 7094781291713539337
+    second: Atacar adelante.gif_337
+  - first:
+      213: -5576968887125171623
+    second: Atacar adelante.gif_338
+  - first:
+      213: 1381256571349282499
+    second: Atacar adelante.gif_339
+  - first:
+      213: 1404202965898285815
+    second: Atacar adelante.gif_340
+  - first:
+      213: -9155858886241934514
+    second: Atacar adelante.gif_341
+  - first:
+      213: 5901861002889221160
+    second: Atacar adelante.gif_342
+  - first:
+      213: 652962381673888363
+    second: Atacar adelante.gif_343
+  - first:
+      213: 5453051114103223306
+    second: Atacar adelante.gif_344
+  - first:
+      213: 2478605191518003469
+    second: Atacar adelante.gif_345
+  - first:
+      213: -5099360440140279020
+    second: Atacar adelante.gif_346
+  - first:
+      213: 3729296774646297079
+    second: Atacar adelante.gif_347
+  - first:
+      213: 2671205259337086739
+    second: Atacar adelante.gif_348
+  - first:
+      213: 6375266459183051790
+    second: Atacar adelante.gif_349
+  - first:
+      213: 2986908984556673889
+    second: Atacar adelante.gif_350
+  - first:
+      213: -5320755865546689852
+    second: Atacar adelante.gif_351
+  - first:
+      213: -3581358299556684889
+    second: Atacar adelante.gif_352
+  - first:
+      213: -2883857080106609031
+    second: Atacar adelante.gif_353
+  - first:
+      213: -4680005837736679689
+    second: Atacar adelante.gif_354
+  - first:
+      213: -6321760205311961241
+    second: Atacar adelante.gif_355
+  - first:
+      213: -449803020420181080
+    second: Atacar adelante.gif_356
+  - first:
+      213: 4086960748268837154
+    second: Atacar adelante.gif_357
+  - first:
+      213: -3040512165905365269
+    second: Atacar adelante.gif_358
+  - first:
+      213: 7652527007009588158
+    second: Atacar adelante.gif_359
+  - first:
+      213: 5255702828243693743
+    second: Atacar adelante.gif_360
+  - first:
+      213: -1244074135858417719
+    second: Atacar adelante.gif_361
+  - first:
+      213: 5957882073518128675
+    second: Atacar adelante.gif_362
+  - first:
+      213: 3605016597241186426
+    second: Atacar adelante.gif_363
+  - first:
+      213: -6780748984841325307
+    second: Atacar adelante.gif_364
+  - first:
+      213: 6664116018265658670
+    second: Atacar adelante.gif_365
+  - first:
+      213: 9207346678698243569
+    second: Atacar adelante.gif_366
+  - first:
+      213: 1913639890949144680
+    second: Atacar adelante.gif_367
+  - first:
+      213: 8052077728508468857
+    second: Atacar adelante.gif_368
+  - first:
+      213: -6780802753925145734
+    second: Atacar adelante.gif_369
+  - first:
+      213: 276977923427300545
+    second: Atacar adelante.gif_370
+  - first:
+      213: 760644558159635814
+    second: Atacar adelante.gif_371
+  - first:
+      213: -8798498316847412149
+    second: Atacar adelante.gif_372
+  - first:
+      213: -7689873047557400709
+    second: Atacar adelante.gif_373
+  - first:
+      213: 1103760935250937514
+    second: Atacar adelante.gif_374
+  - first:
+      213: -880677608006763176
+    second: Atacar adelante.gif_375
+  - first:
+      213: 3496640941491051083
+    second: Atacar adelante.gif_376
+  - first:
+      213: -5467305270673054024
+    second: Atacar adelante.gif_377
+  - first:
+      213: -7356665607925348840
+    second: Atacar adelante.gif_378
+  - first:
+      213: -964319265684660158
+    second: Atacar adelante.gif_379
+  - first:
+      213: -3596243204980375093
+    second: Atacar adelante.gif_380
+  - first:
+      213: -5383666874106129895
+    second: Atacar adelante.gif_381
+  - first:
+      213: -7792690710559790229
+    second: Atacar adelante.gif_382
+  - first:
+      213: -7950769249959918214
+    second: Atacar adelante.gif_383
+  - first:
+      213: 3767322942043699811
+    second: Atacar adelante.gif_384
+  - first:
+      213: 4971722315084583615
+    second: Atacar adelante.gif_385
+  - first:
+      213: 5785067445569190865
+    second: Atacar adelante.gif_386
+  - first:
+      213: 3926129499461183274
+    second: Atacar adelante.gif_387
+  - first:
+      213: -7932284653478708718
+    second: Atacar adelante.gif_388
+  - first:
+      213: 8150655447513439716
+    second: Atacar adelante.gif_389
+  - first:
+      213: 5005397653965550995
+    second: Atacar adelante.gif_390
+  - first:
+      213: 1634605223953814323
+    second: Atacar adelante.gif_391
+  - first:
+      213: 8891645880481434387
+    second: Atacar adelante.gif_392
+  - first:
+      213: 4992785126577662680
+    second: Atacar adelante.gif_393
+  - first:
+      213: 8688220800825183427
+    second: Atacar adelante.gif_394
+  - first:
+      213: 2405834067033214194
+    second: Atacar adelante.gif_395
+  - first:
+      213: -6932021914737136066
+    second: Atacar adelante.gif_396
+  - first:
+      213: -3743722977970974194
+    second: Atacar adelante.gif_397
+  - first:
+      213: 4650050975888770592
+    second: Atacar adelante.gif_398
+  - first:
+      213: 4739345874039629402
+    second: Atacar adelante.gif_399
+  - first:
+      213: -5517473192566891740
+    second: Atacar adelante.gif_400
+  - first:
+      213: -4271774988488805378
+    second: Atacar adelante.gif_401
+  - first:
+      213: -5245773495035194380
+    second: Atacar adelante.gif_402
+  - first:
+      213: 1311804233494341628
+    second: Atacar adelante.gif_403
+  - first:
+      213: -8983968123688359324
+    second: Atacar adelante.gif_404
+  - first:
+      213: -5793959925664142509
+    second: Atacar adelante.gif_405
+  - first:
+      213: -5200769380668053020
+    second: Atacar adelante.gif_406
+  - first:
+      213: 73637563465023590
+    second: Atacar adelante.gif_407
+  - first:
+      213: 4163643631806760589
+    second: Atacar adelante.gif_408
+  - first:
+      213: 7903983666956524559
+    second: Atacar adelante.gif_409
+  - first:
+      213: 4109749844790325270
+    second: Atacar adelante.gif_410
+  - first:
+      213: -489162086945519072
+    second: Atacar adelante.gif_411
+  - first:
+      213: 5043157255033981619
+    second: Atacar adelante.gif_412
+  - first:
+      213: 691806439512506655
+    second: Atacar adelante.gif_413
+  - first:
+      213: -776149386540307328
+    second: Atacar adelante.gif_414
+  - first:
+      213: 2429203427456447893
+    second: Atacar adelante.gif_415
+  - first:
+      213: -4896327509742019465
+    second: Atacar adelante.gif_416
+  - first:
+      213: -6559138916441453008
+    second: Atacar adelante.gif_417
+  - first:
+      213: -2203557811713888131
+    second: Atacar adelante.gif_418
+  - first:
+      213: 4116890705083329075
+    second: Atacar adelante.gif_419
+  - first:
+      213: 5304503671556778341
+    second: Atacar adelante.gif_420
+  - first:
+      213: -8641538960194543043
+    second: Atacar adelante.gif_421
+  - first:
+      213: -4581278710060105902
+    second: Atacar adelante.gif_422
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atacar adelante.gif_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd108e1a0a112e570800000000000000
+      internalID: 8494371228782952924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atacar adelante.gif_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bf07c6510335c90800000000000000
+      internalID: -7182344112154019060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atacar adelante.gif_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44384ab26b220380800000000000000
+      internalID: -9006588601755487157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atacar adelante.gif_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5551b5e4571bcc850800000000000000
+      internalID: 6398684287970514261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atacar adelante.gif_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc46b5f40a4bac340800000000000000
+      internalID: 4884915346455880909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atacar adelante.gif_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f8993a17285d790800000000000000
+      internalID: -7505949779355398385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atacar adelante.gif_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2289fc79f73b02b90800000000000000
+      internalID: -7268612437986797534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atacar adelante.gif_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f06406dee9affc0800000000000000
+      internalID: -3460278621321162919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atacar adelante.gif_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a74aafc1943f830800000000000000
+      internalID: 4103704074277649040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

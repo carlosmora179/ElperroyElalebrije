@@ -12,12 +12,13 @@ public class AlebrijeMovement : MonoBehaviour
     private float radius = 6f;
 
     Vector3 totemPosition;
+    Animator anim;
 
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -49,5 +50,8 @@ public class AlebrijeMovement : MonoBehaviour
             leashLength *= radius / totemDistance;
             transform.position = totemPosition + leashLength;
         }
+
+        anim.SetFloat("MovX", direction.x);
+        anim.SetFloat("MovY", direction.y);
     }
 }
