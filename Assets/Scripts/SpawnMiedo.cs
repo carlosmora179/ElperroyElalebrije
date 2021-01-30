@@ -14,20 +14,20 @@ public class SpawnMiedo : MonoBehaviour
     void Update()
     {
 
-        if(timer <= spawnRatio){
-                 timer += Time.deltaTime;
-             }
-             else{
-                 timer = 0f;
-             
-                if(enemyNumber > 0){
-                    enemyNumber -= 1; 
-                    Instantiate(pfMiedo,transform.position,Quaternion.identity);  
-                }
-             }
-
+        if(timer <= spawnRatio)
+        {
+            timer += Time.deltaTime;
+        }
         
-        
+        else
+        {
+            timer = 0f;
+            
+            if(enemyNumber > 0)
+            {
+                enemyNumber -= 1;
+                Instantiate(pfMiedo,transform.position,Quaternion.identity);
+            }
+        }
     }
-    
 }
