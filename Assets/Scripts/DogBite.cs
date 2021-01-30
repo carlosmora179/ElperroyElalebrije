@@ -41,17 +41,22 @@ public class DogBite : MonoBehaviour
     public GameObject FindClosestItem()
     {
         GameObject[] gos;
+        float biteRange = 1f;
+        GameObject closest = null;
+        
         // list all objects with tag "Grabbable"
         gos = GameObject.FindGameObjectsWithTag("Grabbable");
-        GameObject closest = null;
-        float biteRange = 1f;
+        
         // center on player
         Vector3 position = transform.position;
-        // check each object from furthest to closest
+
         foreach (GameObject go in gos)
         {
+            // calculate distance to object
             Vector3 diff = go.transform.position - position;
             float curDistance = diff.sqrMagnitude;
+
+            // replace if closer than previous
             if (curDistance < biteRange)
             {
                 closest = go;
