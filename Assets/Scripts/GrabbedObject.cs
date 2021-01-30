@@ -23,6 +23,7 @@ public class GrabbedObject : MonoBehaviour
 
     public void Grabbed()
     {
+        // get player reference
         playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
         _grabbed = !_grabbed;
     }
@@ -31,6 +32,7 @@ public class GrabbedObject : MonoBehaviour
     {
         if (_grabbed)
         {
+            // move to player
             transform.position = playerTransform.position;
         }
     }
