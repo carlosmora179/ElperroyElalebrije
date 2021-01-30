@@ -8,6 +8,11 @@ public class AlebrijeMovement : MonoBehaviour
     [SerializeField]    
     private float _speed = 3.5f;
 
+    [SerializeField]
+    private float radius = 6f;
+
+    Vector3 totemPosition;
+
 
     // Start is called before the first frame update
     void Start()
@@ -31,5 +36,18 @@ public class AlebrijeMovement : MonoBehaviour
         Vector3 direction = new Vector3(horizontalInput, verticalInput, 0);
         // move player
         transform.Translate(direction * _speed * Time.deltaTime);
+        
+        // get totem position
+        totemPosition = GameObject.Find("Totem").transform.position;
+
+        // calculate distance from totem
+        float totemDistance = Vector3.Distance(transform.position, totemPosition);
+
+        if (totemDistance > radius)
+        {
+            Vector3 leashLength = transform.position - totemPosition;
+            leashLength *= radius / totemDistance;
+            transform.position = totemPosition + leashLength;
+        }
     }
 }
