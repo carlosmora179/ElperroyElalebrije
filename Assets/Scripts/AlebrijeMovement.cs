@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class AlebrijeMovement : MonoBehaviour
 {
     // player movement speed
     [SerializeField]    
@@ -24,9 +24,9 @@ public class PlayerMovement : MonoBehaviour
     void _MovePlayer()
     {
         // get user input (horizontal)
-        float horizontalInput = Input.GetAxis("Horizontal");
+        float horizontalInput = Input.GetAxisRaw("Horizontal1");
         // get user input (vertical)
-        float verticalInput = Input.GetAxis("Vertical");
+        float verticalInput = Input.GetAxisRaw("Vertical1");
 
         Vector3 direction = new Vector3(horizontalInput, verticalInput, 0);
         // move player
