@@ -6,13 +6,13 @@ using UnityEngine.UI;
 public class ControlesMenu : MonoBehaviour
 {
     [SerializeField] Text controlesPerro;
-    [SerializeField] Text controlesElalebrije;
+    [SerializeField] Text controlesAlebrije;
     // Start is called before the first frame update
     void Start()
     {
         
         controlesPerro.enabled = false;
-        controlesElalebrije.enabled = false;
+        controlesAlebrije.enabled = false;
     }
 
     // Update is called once per frame
@@ -21,12 +21,12 @@ public class ControlesMenu : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.C)){
             Debug.Log(controlesPerro.enabled);
             controlesPerro.enabled = true;
-            controlesElalebrije.enabled = true;
+            controlesAlebrije.enabled = true;
         }
         
         if(Input.GetKeyUp(KeyCode.C)){
             controlesPerro.enabled = false;
-            controlesElalebrije.enabled = false;
+            controlesAlebrije.enabled = false;
         }
     }
 }

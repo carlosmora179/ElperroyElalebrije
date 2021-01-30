@@ -92,7 +92,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controlesPerro: {fileID: 2314456820915031498}
-  controlesElalebrije: {fileID: 3682065747832754493}
+  controlesAlebrije: {fileID: 3682065747832754493}
 --- !u!1 &133160977093276500
 GameObject:
   m_ObjectHideFlags: 0
@@ -105,7 +105,7 @@ GameObject:
   - component: {fileID: 4062495555595070052}
   - component: {fileID: 3682065747832754493}
   m_Layer: 5
-  m_Name: ControlesElalebrije
+  m_Name: ControlesAlebrije
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -170,7 +170,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '  Elalebrije
+  m_Text: 'Alebrije
 
     I  : Arriba
 
