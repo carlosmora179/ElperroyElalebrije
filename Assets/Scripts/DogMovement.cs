@@ -18,10 +18,10 @@ public class DogMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        _MovePlayer();
+        _MoveDog();
     }
 
-    void _MovePlayer()
+    private void _MoveDog()
     {
         // get user input (horizontal)
         float horizontalInput = Input.GetAxisRaw("Horizontal");
