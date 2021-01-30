@@ -1,37 +1,37 @@
 fileFormatVersion: 2
-guid: 3525919b14e837e44888ad16718fb921
+guid: 58e1738977ed29d4e9d919d6e3e62e8e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7586885874558119878
-    second: walk back_0
+      213: -5768630223789276784
+    second: Walk derecha_0
   - first:
-      213: -2270779601637028721
-    second: walk back_1
+      213: -3901980157738657499
+    second: Walk derecha_1
   - first:
-      213: -1916145383345959491
-    second: walk back_2
+      213: -9199338871333267486
+    second: Walk derecha_2
   - first:
-      213: 6095629209590686007
-    second: walk back_3
+      213: -3258639794160999978
+    second: Walk derecha_3
   - first:
-      213: 589087074190843160
-    second: walk back_4
+      213: -8520652351079475746
+    second: Walk derecha_4
   - first:
-      213: 828885102729626749
-    second: walk back_5
+      213: -8396355792565989802
+    second: Walk derecha_5
   - first:
-      213: 4825516573515037736
-    second: walk back_6
+      213: -3116808305014648708
+    second: Walk derecha_6
   - first:
-      213: -2338114166795904554
-    second: walk back_7
+      213: 4435377512593104148
+    second: Walk derecha_7
   - first:
-      213: -620084605779205997
-    second: walk back_8
+      213: 3376863007115896633
+    second: Walk derecha_8
   - first:
-      213: 3180105302485319803
-    second: walk back_9
+      213: -6008084066034765489
+    second: Walk derecha_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -129,12 +129,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: walk back_0
+      name: Walk derecha_0
       rect:
         serializedVersion: 2
-        x: 5
+        x: 0
         y: 0
-        width: 22
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -143,19 +143,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6cf277081880a4960800000000000000
-      internalID: 7586885874558119878
+      spriteID: 091457eff55b1ffa0800000000000000
+      internalID: -5768630223789276784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk back_1
+      name: Walk derecha_1
       rect:
         serializedVersion: 2
-        x: 37
+        x: 32
         y: 0
-        width: 22
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -164,40 +164,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8cc831cbf19c70e0800000000000000
-      internalID: -2270779601637028721
+      spriteID: 5295d5958b169d9c0800000000000000
+      internalID: -3901980157738657499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk back_2
+      name: Walk derecha_2
       rect:
         serializedVersion: 2
-        x: 69
-        y: 1
-        width: 22
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dbdc8af0deb7865e0800000000000000
-      internalID: -1916145383345959491
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk back_3
-      rect:
-        serializedVersion: 2
-        x: 101
+        x: 64
         y: 0
-        width: 22
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -206,124 +185,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 731e5285876089450800000000000000
-      internalID: 6095629209590686007
+      spriteID: 2e7dcb56902655080800000000000000
+      internalID: -9199338871333267486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk back_4
+      name: Walk derecha_3
       rect:
         serializedVersion: 2
-        x: 133
-        y: 1
-        width: 22
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 81d5be6a29bdc2800800000000000000
-      internalID: 589087074190843160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk back_5
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 2
-        width: 22
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d7400dbfb9ac08b00800000000000000
-      internalID: 828885102729626749
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk back_6
-      rect:
-        serializedVersion: 2
-        x: 197
+        x: 96
         y: 0
-        width: 22
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 82cbf16c1cda7f240800000000000000
-      internalID: 4825516573515037736
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk back_7
-      rect:
-        serializedVersion: 2
-        x: 229
-        y: 0
-        width: 22
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6d952db9d895d8fd0800000000000000
-      internalID: -2338114166795904554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk back_8
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 2
-        width: 22
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 390a7dd16540567f0800000000000000
-      internalID: -620084605779205997
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk back_9
-      rect:
-        serializedVersion: 2
-        x: 293
-        y: 0
-        width: 22
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -332,8 +206,134 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7049f67ce0022c20800000000000000
-      internalID: 3180105302485319803
+      spriteID: 6d1e41a4f5cf6c2d0800000000000000
+      internalID: -3258639794160999978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk derecha_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed59f4fb4df80c980800000000000000
+      internalID: -8520652351079475746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk derecha_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e8f4874e62a7b80800000000000000
+      internalID: -8396355792565989802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk derecha_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c705d923c5fdeb4d0800000000000000
+      internalID: -3116808305014648708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk derecha_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d1eda1950ad8d30800000000000000
+      internalID: 4435377512593104148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk derecha_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937ec4a73070dde20800000000000000
+      internalID: 3376863007115896633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk derecha_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f413057cf5ffe9ca0800000000000000
+      internalID: -6008084066034765489
       vertices: []
       indices: 
       edges: []
