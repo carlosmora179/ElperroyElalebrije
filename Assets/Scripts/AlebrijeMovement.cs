@@ -51,8 +51,16 @@ public class AlebrijeMovement : MonoBehaviour
             transform.position = totemPosition + leashLength;
         }
 
-        anim.SetFloat("MovX", direction.x);
-        anim.SetFloat("MovY", direction.y);
+        if (direction != Vector3.zero)
+        {
+            anim.SetFloat("MovX", direction.x);
+            anim.SetFloat("MovY", direction.y);
+            anim.SetBool("Walking", true);
+        }
+        else
+        {
+            anim.SetBool("Walking", false);
+        }
     }
 
     void OnDrawGizmosSelected(){

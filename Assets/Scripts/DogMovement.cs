@@ -34,10 +34,12 @@ public class DogMovement : MonoBehaviour
         transform.Translate(direction * _speed * Time.deltaTime);
         
         if( direction != Vector3.zero){
-
             anim.SetFloat("MovX", direction.x);
             anim.SetFloat("MovY", direction.y);
-
+            anim.SetBool("Walking", true);
+        }else
+        {
+            anim.SetBool("Walking", false);
         }
         
     }

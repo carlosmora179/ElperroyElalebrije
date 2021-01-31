@@ -1,7 +1,37 @@
 fileFormatVersion: 2
 guid: 992e00368e0a1fd4b96f56f6b4250ddd
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2958543812914777814
+    second: iddle derecha_0
+  - first:
+      213: 2813347254630069459
+    second: iddle derecha_1
+  - first:
+      213: -3488460900555084340
+    second: iddle derecha_2
+  - first:
+      213: 7088609821415826062
+    second: iddle derecha_3
+  - first:
+      213: 6885297866904439468
+    second: iddle derecha_4
+  - first:
+      213: 7235095160563954607
+    second: iddle derecha_5
+  - first:
+      213: 870380630867758711
+    second: iddle derecha_6
+  - first:
+      213: -8711080636598677287
+    second: iddle derecha_7
+  - first:
+      213: -2557325432678812376
+    second: iddle derecha_8
+  - first:
+      213: -2997176297520120560
+    second: iddle derecha_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,12 +70,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -97,7 +127,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: iddle derecha_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21f8c2c31421f6d0800000000000000
+      internalID: -2958543812914777814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iddle derecha_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4bb0e1c640b0720800000000000000
+      internalID: 2813347254630069459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iddle derecha_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd23992b4f769fc0800000000000000
+      internalID: -3488460900555084340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iddle derecha_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82e5d4531dcf5260800000000000000
+      internalID: 7088609821415826062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iddle derecha_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa08991eed7d8f50800000000000000
+      internalID: 6885297866904439468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iddle derecha_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3ff8127b8386460800000000000000
+      internalID: 7235095160563954607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iddle derecha_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ec0428296341c00800000000000000
+      internalID: 870380630867758711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iddle derecha_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d090c570560c1780800000000000000
+      internalID: -8711080636598677287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iddle derecha_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8257b1a711e828cd0800000000000000
+      internalID: -2557325432678812376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iddle derecha_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01db7118904e766d0800000000000000
+      internalID: -2997176297520120560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
