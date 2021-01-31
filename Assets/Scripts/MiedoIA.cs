@@ -88,5 +88,12 @@ public class MiedoIA : MonoBehaviour
         Gizmos.DrawWireSphere(transform.position,RadioAtaque);
     }
 
-     
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            player.GetComponent<FearMeditor>().increase();
+            this.GetComponent<MiedoHealth>().Damage();
+        }
+    }
 }
