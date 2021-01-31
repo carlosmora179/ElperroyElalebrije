@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class DogBite : MonoBehaviour
 {
-    [SerializeField]
-    private bool _bitting = false;
+    [SerializeField]    private bool _bitting = false;
+    [SerializeField]    private float biteRange = 0.8f;
 
     // Start is called before the first frame update
     void Start()
@@ -40,27 +40,27 @@ public class DogBite : MonoBehaviour
 
     public GameObject FindClosestItem()
     {
-        GameObject[] gos;
-        float biteRange = 1f;
+        GameObject[] items;
+        float range = biteRange;
         GameObject closest = null;
         
         // list all objects with tag "Grabbable"
-        gos = GameObject.FindGameObjectsWithTag("Grabbable");
+        items = GameObject.FindGameObjectsWithTag("Grabbable");
         
         // center on player
         Vector3 position = transform.position;
 
-        foreach (GameObject go in gos)
+        foreach (GameObject item in items)
         {
             // calculate distance to object
-            Vector3 diff = go.transform.position - position;
-            float curDistance = diff.sqrMagnitude;
+            Vector3 diff = item.transform.position - position;
+            float distance = diff.sqrMagnitude;
 
             // replace if closer than previous
-            if (curDistance < biteRange)
+            if (distance < range)
             {
-                closest = go;
-                biteRange = curDistance;
+                closest = item;
+                range = distance;
             }
         }
         return closest;
