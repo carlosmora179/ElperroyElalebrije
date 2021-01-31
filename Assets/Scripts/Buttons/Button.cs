@@ -47,6 +47,10 @@ public class Button : MonoBehaviour
             {
                 obstacle.GetComponent<Collider2D>().enabled = false;
             }
+
+        }
+        if( Input.GetKeyDown(KeyCode.RightShift)){
+            obstacle.GetComponent<Collider2D>().enabled = false;
         }
     }
 }

@@ -27,7 +27,7 @@ public class LevelLoader : MonoBehaviour
 
        if(gameOver != null){
 
-          StartCoroutine(finJuego()); 
+          //StartCoroutine(finJuego()); 
        }
       
 
@@ -60,7 +60,7 @@ public class LevelLoader : MonoBehaviour
    IEnumerator loadInterface()
   {
        
-       yield return new WaitForSeconds(transitionTime);
+       yield return new WaitForSeconds(1f);
        canva.SetActive(true);
   }
   IEnumerator finJuego()

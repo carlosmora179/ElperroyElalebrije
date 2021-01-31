@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Harm : MonoBehaviour
 {
-    public float Ratio = 3f;
+    public float Ratio = 7f;
     public GameObject player;
     Vector3  target;
     private float timer =0f;

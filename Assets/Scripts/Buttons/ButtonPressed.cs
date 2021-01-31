@@ -47,7 +47,7 @@ public class ButtonPressed : MonoBehaviour
     {
         if (isEnter)
         {
-            if (Input.GetKeyDown(KeyCode.E))
+            if (Input.GetKeyDown(KeyCode.E) || Input.GetKeyDown(KeyCode.RightShift))
             {
                 startTime = Time.time;
             }
@@ -59,6 +59,13 @@ public class ButtonPressed : MonoBehaviour
                     obstacle.GetComponent<Collider2D>().enabled = false;
                 }
             }
+        }
+        if( Input.GetKeyDown(KeyCode.RightShift)){
+             if (startTime + holdTime <= Time.time)
+                {
+                    print("barrier");
+                    obstacle.GetComponent<Collider2D>().enabled = false;
+                }
         }
     }
 }
