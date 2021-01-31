@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class FearMeditor : MonoBehaviour
 {
@@ -15,7 +16,10 @@ public class FearMeditor : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (barra.slider.value == 10)
+        {
+            SceneManager.LoadScene("Level1");
+        }
     }
 
     public void increase()
