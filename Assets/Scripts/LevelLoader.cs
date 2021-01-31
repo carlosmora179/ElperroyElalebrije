@@ -16,13 +16,20 @@ public class LevelLoader : MonoBehaviour
    public float transitionTime = 1f;
     // Update is called once per frame
    private void Start() {
-        StartCoroutine(loadInterface());
+       if (canva != null){
+            StartCoroutine(loadInterface());
+
+       }
+        
        
    }
    public void GameOver(){
 
-       
-      StartCoroutine(finJuego());
+       if(gameOver != null){
+
+          StartCoroutine(finJuego()); 
+       }
+      
 
    }
    public void ReinicioMundo(){

@@ -7,11 +7,15 @@ public class DirectorHandler : MonoBehaviour
 {
     PlayableDirector pd;
     bool activado;
+
+    GameObject Carga2;
     // Start is called before the first frame update
+
     void Start()
     {
         pd = GetComponent<PlayableDirector>();
         activado = false;
+        Carga2 = GameObject.FindGameObjectWithTag("Finish");
     }
 
     // Update is called once per frame
@@ -28,7 +32,7 @@ public class DirectorHandler : MonoBehaviour
         }
         if (pd.time > 16.0f)
         {
-            //Aqui va la transicion.
+            Carga2.GetComponent<Level1Loader>().LoadLevel1();
         }
     }
 }
