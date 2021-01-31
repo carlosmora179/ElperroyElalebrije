@@ -27,7 +27,7 @@ public class LevelLoader : MonoBehaviour
 
        if(gameOver != null){
 
-          //StartCoroutine(finJuego()); 
+          StartCoroutine(finJuego()); 
        }
       
 
