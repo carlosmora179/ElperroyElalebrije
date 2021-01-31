@@ -54,4 +54,10 @@ public class AlebrijeMovement : MonoBehaviour
         anim.SetFloat("MovX", direction.x);
         anim.SetFloat("MovY", direction.y);
     }
+
+    void OnDrawGizmosSelected(){
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(transform.position,radius);
+        
+    }
 }

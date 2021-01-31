@@ -49,6 +49,8 @@ public class MiedoIA : MonoBehaviour
             }
             
         }
+
+
         
         float distance = Vector3.Distance(target, transform.position);
         Vector3 dir = (target - transform.position).normalized;
@@ -62,6 +64,12 @@ public class MiedoIA : MonoBehaviour
         rb2d.MovePosition(transform.position + dir * speed * Time.deltaTime);
             
         Debug.DrawLine(transform.position, target, Color.green);
+
+    }
+
+    public void SetSpeed(float newSpeed){
+        speed = newSpeed;
+
 
     }
 
