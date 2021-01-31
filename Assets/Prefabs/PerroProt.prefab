@@ -100,7 +100,8 @@ GameObject:
   - component: {fileID: 3848647827552331112}
   - component: {fileID: 1536403081241730503}
   - component: {fileID: 5873418128777216069}
-  - component: {fileID: 3021346405108531625}
+  - component: {fileID: 920521285}
+  - component: {fileID: 920521286}
   m_Layer: 0
   m_Name: PerroProt
   m_TagString: Player
@@ -259,7 +260,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.95, y: 0.9}
   m_EdgeRadius: 0
---- !u!50 &3021346405108531625
+--- !u!50 &920521285
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
@@ -273,13 +274,39 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 0
+  m_AngularDrag: 0.05
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
+--- !u!61 &920521286
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3848647827552331115}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8125, y: 0.9375}
+    newSize: {x: 0.8125, y: 0.9375}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8125, y: 0.9375}
+  m_EdgeRadius: 0
 --- !u!1001 &954536502913019151
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -287,6 +314,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2073321016}
     m_Modifications:
+    - target: {fileID: 7032964563938876332, guid: bd2f9b88d4e0e9940a9873255371618e,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e01c5333ef96b6142ab7bb17e0dbd76b,
+        type: 3}
+    - target: {fileID: 7032964563995890991, guid: bd2f9b88d4e0e9940a9873255371618e,
+        type: 3}
+      propertyPath: m_Text
+      value: "Fin del Juego \nsu miedo lleg\xF3 al m\xE1ximo"
+      objectReference: {fileID: 0}
     - target: {fileID: 7032964564586149900, guid: bd2f9b88d4e0e9940a9873255371618e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -561,7 +599,7 @@ PrefabInstance:
     - target: {fileID: 4906854927937172725, guid: 36e33d49671036e41ab05cacc072b01d,
         type: 3}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4906854927937172725, guid: 36e33d49671036e41ab05cacc072b01d,
         type: 3}
