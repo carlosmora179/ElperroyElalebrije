@@ -10,10 +10,10 @@ public class FearBar : MonoBehaviour
 
     public void SetMaxFear(int fear){
         slider.maxValue = fear;
-        slider.value = fear;
+        slider.value = 0;
 
     }
     public void SetFear(int fear){
-        slider.value = fear;
+        slider.value += fear;
     }
 }
