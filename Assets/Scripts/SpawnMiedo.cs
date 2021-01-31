@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 public class SpawnMiedo : MonoBehaviour
 {
@@ -8,9 +9,13 @@ public class SpawnMiedo : MonoBehaviour
     public float spawnRatio = 2f;
     public int enemyNumber = 10;
     private float timer =0f;
+    float numAleat = 4f;
+    System.Random random ;
 
     [SerializeField] private Transform pfMiedo;
-   
+   private void Start() {
+       random = new System.Random();
+   }
     void Update()
     {
 
@@ -26,6 +31,9 @@ public class SpawnMiedo : MonoBehaviour
             if(enemyNumber > 0)
             {
                 enemyNumber -= 1;
+                numAleat = random.Next(4,11);
+                pfMiedo.GetComponent<MiedoIA>().SetSpeed(numAleat);
+
                 Instantiate(pfMiedo,transform.position,Quaternion.identity);
             }
         }
