@@ -7,10 +7,12 @@ public class FearMeditor : MonoBehaviour
 {
     [SerializeField]
     FearBar barra;
+    GameObject levelcontrol;
     // Start is called before the first frame update
     void Start()
     {
         barra.SetMaxFear(10);
+        levelcontrol = GameObject.FindGameObjectWithTag("GameController");
     }
 
     // Update is called once per frame
@@ -18,7 +20,8 @@ public class FearMeditor : MonoBehaviour
     {
         if (barra.slider.value == 10)
         {
-            SceneManager.LoadScene("Level1");
+            levelcontrol.GetComponent<LevelLoader>().GameOver();
+            //SceneManager.LoadScene("Level1");
         }
     }
 
