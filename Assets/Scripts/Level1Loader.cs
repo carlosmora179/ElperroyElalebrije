@@ -16,7 +16,7 @@ public class Level1Loader : MonoBehaviour
 
      public void LoadLevel1(){
 
-        if(SceneManager.GetActiveScene().buildIndex == 7){
+        if(SceneManager.GetActiveScene().buildIndex == 4){
             StartCoroutine(LoadLevel(0));
 
         }

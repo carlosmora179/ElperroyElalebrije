@@ -5,15 +5,15 @@ using UnityEngine;
 public class CreditosController : MonoBehaviour
 {
 
-    public GameObject o1,o2,o3,o4;
+    public GameObject o1,o2,o3,o4,o5;
     List<GameObject> lista ;
-
+    public float time = 5f;
     public GameObject canva;
     bool mostrando = false;
     // Start is called before the first frame update
     void Start()
     {
-       StartCoroutine(loadCredits(4f));
+       StartCoroutine(loadCredits(time));
        
     }
 
@@ -34,6 +34,9 @@ public class CreditosController : MonoBehaviour
        o4.gameObject.SetActive(true);
        yield return new WaitForSeconds(transitionTime);
        o4.gameObject.SetActive(false);
+       o5.gameObject.SetActive(true);
+       yield return new WaitForSeconds(transitionTime);
+       o5.gameObject.SetActive(false);
        yield return new WaitForSeconds(transitionTime);
        GameObject.FindGameObjectWithTag("Finish").GetComponent<Level1Loader>().LoadLevel1();
        mostrando = false;
