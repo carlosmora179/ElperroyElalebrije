@@ -12,7 +12,7 @@ public class AlebrijeMovement : MonoBehaviour
     private float radius = 6f;
 
     Vector3 totemPosition;
-    Animator anim;
+    private Animator anim;
 
 
     // Start is called before the first frame update
@@ -53,5 +53,11 @@ public class AlebrijeMovement : MonoBehaviour
 
         anim.SetFloat("MovX", direction.x);
         anim.SetFloat("MovY", direction.y);
+    }
+
+    void OnDrawGizmosSelected(){
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(transform.position,radius);
+        
     }
 }

@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class AlebrijeAttack : MonoBehaviour
 {
+    private Animator anim;
     // Start is called before the first frame update
     void Start()
     {
-        
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -15,9 +16,13 @@ public class AlebrijeAttack : MonoBehaviour
     {
         if (Input.GetKeyDown("u"))
         {
+            anim.SetBool("Ataque", true);
             Attack();
         }
-        
+        if (Input.GetKeyUp("u")) 
+        {
+            anim.SetBool("Ataque", false);
+        }
     }
 
     void Attack()
@@ -26,7 +31,7 @@ public class AlebrijeAttack : MonoBehaviour
         
         if (target)
         {
-            target.GetComponent<Enemy_ReceiveDamage>().Damage();
+            target.GetComponent<MiedoHealth>().Damage();
         }
     }
 
