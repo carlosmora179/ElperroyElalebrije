@@ -164,9 +164,9 @@ GameObject:
   - component: {fileID: 119032346825747817}
   - component: {fileID: 119032346825747816}
   - component: {fileID: 119032346825747818}
-  - component: {fileID: 119032346825747799}
+  - component: {fileID: 6063614079255751412}
   m_Layer: 0
-  m_Name: ButtonRock
+  m_Name: Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -253,7 +253,7 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.25
---- !u!114 &119032346825747799
+--- !u!114 &6063614079255751412
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
