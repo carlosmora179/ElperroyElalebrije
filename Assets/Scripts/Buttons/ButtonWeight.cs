@@ -1,8 +1,8 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Button : MonoBehaviour
+public class ButtonWeight : MonoBehaviour
 {
     [SerializeField]
     private GameObject obstacle;
@@ -18,13 +18,7 @@ public class Button : MonoBehaviour
 
     void Update()
     {
-        if (isEnter)
-        {
-            if (Input.GetKeyDown(KeyCode.E))
-            {
-                obstacle.GetComponent<Collider2D>().enabled = false;
-            }
-        }
+        CheckKeyPress();
     }
 
     public void OnTriggerEnter2D(Collider2D collision)
@@ -33,6 +27,7 @@ public class Button : MonoBehaviour
         {
             canvas.SetActive(true);
             isEnter = true;
+
         }
     }
 
@@ -42,6 +37,15 @@ public class Button : MonoBehaviour
         {
             canvas.SetActive(false);
             isEnter = false;
+        }
+    }
+
+    void CheckKeyPress()
+    {
+        if (isEnter)
+        {
+            print("in");
+            obstacle.GetComponent<Collider2D>().enabled = false;
         }
     }
 }
