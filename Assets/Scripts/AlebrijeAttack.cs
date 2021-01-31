@@ -14,12 +14,12 @@ public class AlebrijeAttack : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown("u"))
+        if (Input.GetKeyDown(KeyCode.RightShift))
         {
             anim.SetBool("Ataque", true);
             Attack();
         }
-        if (Input.GetKeyUp("u")) 
+        if (Input.GetKeyUp(KeyCode.RightShift)) 
         {
             anim.SetBool("Ataque", false);
         }
