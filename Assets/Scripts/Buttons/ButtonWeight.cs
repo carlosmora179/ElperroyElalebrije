@@ -23,17 +23,16 @@ public class ButtonWeight : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player"))
+        if (collision.CompareTag("Grabbable"))
         {
             canvas.SetActive(true);
             isEnter = true;
-
         }
     }
 
     public void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player"))
+        if (collision.CompareTag("Grabbable"))
         {
             canvas.SetActive(false);
             isEnter = false;
@@ -44,7 +43,6 @@ public class ButtonWeight : MonoBehaviour
     {
         if (isEnter)
         {
-            print("in");
             obstacle.GetComponent<Collider2D>().enabled = false;
         }
     }

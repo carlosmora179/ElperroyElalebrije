@@ -8,11 +8,13 @@ public class FearMeditor : MonoBehaviour
     [SerializeField]
     FearBar barra;
     GameObject levelcontrol;
+    GameObject Alebrije;
     // Start is called before the first frame update
     void Start()
     {
         barra.SetMaxFear(10);
         levelcontrol = GameObject.FindGameObjectWithTag("GameController");
+        Alebrije = GameObject.FindGameObjectWithTag("Alebrije");
     }
 
     // Update is called once per frame
@@ -28,5 +30,9 @@ public class FearMeditor : MonoBehaviour
     public void increase()
     {
         barra.SetFear(1);
+    }
+    
+    public void decrease(){
+        barra.SetFear(-1);
     }
 }
