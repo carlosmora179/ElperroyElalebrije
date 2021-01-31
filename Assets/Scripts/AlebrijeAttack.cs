@@ -31,7 +31,7 @@ public class AlebrijeAttack : MonoBehaviour
         
         if (target)
         {
-            target.GetComponent<Enemy_ReceiveDamage>().Damage();
+            target.GetComponent<MiedoHealth>().Damage();
         }
     }
 
