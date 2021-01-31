@@ -12,7 +12,7 @@ public class AlebrijeMovement : MonoBehaviour
     private float radius = 6f;
 
     Vector3 totemPosition;
-    Animator anim;
+    private Animator anim;
 
 
     // Start is called before the first frame update
