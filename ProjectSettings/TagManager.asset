@@ -43,3 +43,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Parades
+    uniqueID: 2394157415
+    locked: 0
+  - name: muebes
+    uniqueID: 130411319
+    locked: 0
+  - name: personaje
+    uniqueID: 198190315
+    locked: 0
